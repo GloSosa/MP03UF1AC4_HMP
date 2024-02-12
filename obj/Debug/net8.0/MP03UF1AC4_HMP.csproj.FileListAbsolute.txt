@@ -1,0 +1,14 @@
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\obj\Debug\net8.0\MP03UF1AC4_HMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\obj\Debug\net8.0\MP03UF1AC4_HMP.AssemblyInfoInputs.cache
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\obj\Debug\net8.0\MP03UF1AC4_HMP.AssemblyInfo.cs
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\obj\Debug\net8.0\MP03UF1AC4_HMP.csproj.CoreCompileInputs.cache
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\bin\Debug\net8.0\MP03UF1AC4_HMP.exe
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\bin\Debug\net8.0\MP03UF1AC4_HMP.deps.json
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\bin\Debug\net8.0\MP03UF1AC4_HMP.runtimeconfig.json
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\bin\Debug\net8.0\MP03UF1AC4_HMP.dll
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\bin\Debug\net8.0\MP03UF1AC4_HMP.pdb
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\obj\Debug\net8.0\MP03UF1AC4_HMP.dll
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\obj\Debug\net8.0\refint\MP03UF1AC4_HMP.dll
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\obj\Debug\net8.0\MP03UF1AC4_HMP.pdb
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\obj\Debug\net8.0\MP03UF1AC4_HMP.genruntimeconfig.cache
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC4_HMP\obj\Debug\net8.0\ref\MP03UF1AC4_HMP.dll
